@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 💼 IT Leadership & Engineering Management
 
 ☁️ Cloud Migration & Modernization (AWS | Azure | GCP)
@@ -14,4 +13,4 @@
 🧠 Solution Design, Governance & Delivery Excellence
 
 I thrive at the intersection of strategy + architecture + execution.
--->
+
