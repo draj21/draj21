@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 This is me -
+
+Part architect. Part strategist. Part firefighter.
+100% focused on making technology behave.
 
 💼 IT Leadership & Engineering Management
 
