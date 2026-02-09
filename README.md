@@ -1,16 +1,17 @@
 ## Hi there 👋
 
 <!--
-**draj21/draj21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 IT Leadership & Engineering Management
 
-Here are some ideas to get you started:
+☁️ Cloud Migration & Modernization (AWS | Azure | GCP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔗 System Integrations & Enterprise Architecture
+
+📈 Performance & Portfolio Management
+
+🤝 Stakeholder & Client Relationship Management
+
+🧠 Solution Design, Governance & Delivery Excellence
+
+I thrive at the intersection of strategy + architecture + execution.
 -->
